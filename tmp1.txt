@@ -1,0 +1,229 @@
+parameter.requestType	TXP_REG
+parameter.requestUid
+parameter.requestStatus
+parameter.taxpayerUid
+parameter.branchUid
+parameter.currentUserUid	0b19f2e6-6111-4a80-b487-3c03ff475f79
+parameter.businessUid
+parameter.account_holder_name	boy girel
+registrationRequest.creg08RequestUid
+registrationRequest.creg08SubmittedbyTin
+registrationRequest.creg08SubmittedbyName
+registrationRequest.creg08RequestDate	04-11-2016
+actionStatus	submit
+entityGroupId	12bf2a89-e52e-447e-aa83-62eb5f13257a
+reason
+haveToPrintStatus
+creg01SubmitSrc	TP
+treg00NaturalPerson.creg00NaturalPersonUid
+treg00NaturalPerson.creg00HomeTel
+treg00NaturalPerson.creg00MobilePhone
+treg00NaturalPerson.creg00WorkTel
+treg00NaturalPerson.creg00Fax
+treg00NaturalPerson.creg00Email	boy@qq.com
+treg00NaturalPerson.creg00FirstName	boy
+treg00NaturalPerson.creg00LastName	girel
+treg00NaturalPerson.creg00Sex	M
+treg00NaturalPerson.creg00BirthDate	04-11-2001
+treg00NaturalPerson.creg00Citizenship	NA
+treg00NaturalPerson.creg00IdType	BIRTH
+treg00NaturalPerson.creg00IdNo	12334234
+treg00NaturalPerson.creg00IssueDate
+treg00NaturalPerson.creg00MaritalStatus	NOMAR
+treg00NaturalPerson.creg00TinOfSpouse
+treg00NaturalPerson.creg00FirstNameOfSpouse
+treg00NaturalPerson.creg00LastNameOfSpouse
+treg00NaturalPerson.creg00DateChangedMarital
+treg00NaturalPerson.creg00IdNoOfSpouse
+treg00NaturalPerson.creg00MobilePhoneOfSpouse
+treg00NaturalPerson.creg00EmailOfSpouse
+creg01OfficeName	Oshakati Regional Office
+creg01OfficeId	12bf2a89-e52e-447e-aa83-62eb5f13257a
+creg01TaxpayerCategory	IND
+creg01TaxpayerType	INDSP
+creg01MagisterialDistrict
+creg01TaxableActivityCategory	SIC01
+creg01MainTaxableActivity	SIC01_0102
+indHomeTel01	264
+indHomeTel03
+indHomeTel02
+busHomeTel01	264
+busHomeTel03
+busHomeTel02
+treg03Business.creg03HomeTel
+treg03Business.creg03MobilePhone
+treg03Business.creg03Email
+treg03Business.creg03WorkTel
+treg03Business.creg03Fax
+treg03Business.creg03BusinessUid
+treg03Business.creg03HaveHeadoffice	N
+treg03Business.creg03HeadofficeCountry
+treg03Business.creg03HeadofficeTin
+treg03Business.creg03HeadofficeTradeName
+treg03Business.creg03TradeName
+treg03Business.creg03TradeNo
+treg03Business.creg03CommencingDate
+treg03Business.creg03IsTakeover	N
+indmobile01	264
+indmobile02
+busmobile01	264
+busmobile02
+indWorkTel01	264
+indWorkTel03
+indWorkTel02
+busWorkTel01	264
+busWorkTel03
+busWorkTel02
+indFax01	264
+indFax03
+indFax02
+busFax01	264
+busFax03
+busFax02
+Notifications	EMAIL
+creg01SendChannel	EMAIL
+creg01NumbreOfEmployees
+creg01PostalAddr	PO Box  123456\r\nttt\r\naaa\r\nMontserrat
+postalAddress.creg26AddressLine1
+postalAddress.creg26AddressLine2	ttt
+postalAddress.creg26AddressLine3	POB-123456
+postalAddress.creg26City	aaa
+postalAddress.creg26Region
+postalAddress.creg26RegionCode
+postalAddress.creg26Country	Montserrat
+postalAddress.creg26CountryCode	MS
+postalAddress.creg26PostalCode
+postalAddress.creg26AddressUid
+creg26AddressLine3	POB
+creg26AddressLine3Number	123456
+creg01PostAddrUid
+creg01PhysicalAddr	aadfsdf\r\nwerewr\r\nsdfsf\r\nNamibia
+individualResidentialAddr.creg26AddressLine1	aadfsdf
+individualResidentialAddr.creg26AddressLine2	werewr
+individualResidentialAddr.creg26City	sdfsf
+individualResidentialAddr.creg26Region
+individualResidentialAddr.creg26RegionCode
+individualResidentialAddr.creg26Country	Namibia
+individualResidentialAddr.creg26CountryCode	NA
+individualResidentialAddr.creg26PostalCode
+individualResidentialAddr.creg26AddressUid
+creg01PhysicalAddrUid
+creg01IsProvisional	N
+treg02Individual.creg02IndividualUid
+treg02Individual.creg02TradeName
+treg02Individual.creg02IsResident	RESIDENT
+treg02Individual.creg02ArrivedNamibiaDate
+oldBirthDate
+oldFirstName
+oldLastName
+oldIdNumber
+oldIdType
+creg01OrganizationTin
+spouseMobile01	264
+spouseMobile02
+oldTradeName
+oldTradeNo
+creg01TaxpayerSize
+creg01EndOfFinancialMonth
+account_holder_name_sep
+accounts[0].creg04BankName	NED
+accounts[0].creg04AccountUid
+accounts[0].creg04BranchName	461072
+accounts[0].creg04BranchNo	461072
+accounts[0].creg04AccountType	CURRENT
+accounts[0].creg04AccountNo	1234324234
+accounts[0].creg04Holder	boy girel
+accounts[0].creg04IsHistory
+accounts[0].creg04IsActive
+ThisRegisteredTaxType	0
+reqHiddenTxpTem	REG_NULL
+reqHiddenTxpTemforVAT	REG_NULL
+ChkOne
+registeredTaxType[0].creg06EffectiveDate	04-11-2012
+registeredTaxType[0].taxpayerRequest.creg01TaxpayerUid
+registeredTaxType[0].treg08RegistrationRequest.creg01TaxpayerUid
+registeredTaxType[0].creg20BranchUid
+registeredTaxType[0].cret09TaxtypeUid	2
+registeredTaxType[0].creg06IsRegister	Y
+registeredTaxType[0].creg06OfficerId
+registeredTaxType[0].creg06ExpectEffectiveDate
+registeredTaxType[0].cret09TaxTypeCode	ITX
+registeredTaxType[0].creg06RegistTaxtypeUid
+registeredTaxType[0].creg06Fin
+registeredTaxType[0].creg06Status
+registeredTaxType[0].creg06ExpiryDate
+registeredTaxType[0].ChkOne
+registeredTaxType[0].cret09TaxTypeName	Income Tax
+registeredTaxType[0].creg06IsVoluntary
+registeredTaxType[0].creg06VoluntaryReason
+registeredTaxType[0].creg06EstAnnTaxSupplies
+registeredTaxType[0].creg06CertificateNo
+registeredTaxType[0].creg06CertificateExpireDate
+registeredTaxType[0].creg06GoodsofRefund
+registeredTaxType[0].creg06ServicesofRefund
+registeredTaxType[0].creg06TaxPeriod
+registeredTaxType[0].creg06VATAdress
+registeredTaxType[0].creg06PeriodCategory
+registeredTaxType[0].creg06IsRegular	Y
+registeredTaxType[0].creg06TaxTypeDetail	Details
+stakeHolders[0].creg30StakeholderType
+stakeHolders[0].creg30Citizenship
+stakeHolders[0].creg30Tin
+stakeHolders[0].creg30Name
+stakeHolders[0].creg30IdType
+stakeHolders[0].creg30IdNo
+stakeHolders[0].creg30PercentageInProfit
+stakeHolders[0].creg30Telephone
+treg25TakenOverInformations[0].creg25PreviousTin
+treg25TakenOverInformations[0].creg25TakenOverInfoUid
+treg25TakenOverInformations[0].creg25PreviousTradeName
+treg25TakenOverInformations[0].creg25PreviousOwnerTin
+treg25TakenOverInformations[0].creg25PreviousOwnerName
+treg25TakenOverInformations[0].creg25PurchasedDate
+treg25TakenOverInformations[0].creg25TransferredValue
+attachments[0].ccmn00IsUpload	Y
+attachments[0].ccmn00Barcode
+attachments[0].ccmn00AttachUid
+attachments[0].ccmn00DocumentTypecode	TRA
+attachments[0].ccmn00Entity	TAXPAYER_TYPE
+attachments[0].mandatory	Y
+attachments[0].ccmn00IsConf	Y
+attachments[0].modify
+attachments[0].rowIndex
+attachments[0].ccmn00UploadDate	04-11-2016
+attachments[0].ccmn00Note
+attachments[0].ccmn00ArchivedDate	04-11-2016
+attachments[1].ccmn00IsUpload	Y
+attachments[1].ccmn00Barcode
+attachments[1].ccmn00AttachUid
+attachments[1].ccmn00DocumentTypecode	IPBA
+attachments[1].ccmn00Entity	TAXPAYER_TYPE
+attachments[1].mandatory	Y
+attachments[1].ccmn00IsConf	Y
+attachments[1].modify
+attachments[1].rowIndex
+attachments[1].ccmn00UploadDate	04-11-2016
+attachments[1].ccmn00Note
+attachments[1].ccmn00ArchivedDate	04-11-2016
+attachments[2].ccmn00IsUpload	Y
+attachments[2].ccmn00Barcode
+attachments[2].ccmn00AttachUid
+attachments[2].ccmn00DocumentTypecode	BKD
+attachments[2].ccmn00Entity	UNSHARED_BANK_ACCOUNT
+attachments[2].mandatory	Y
+attachments[2].ccmn00IsConf	Y
+attachments[2].modify
+attachments[2].rowIndex
+attachments[2].ccmn00UploadDate	04-11-2016
+attachments[2].ccmn00Note
+attachments[2].ccmn00ArchivedDate	04-11-2016
+addressLine1
+addressLine3
+addressLine3Number
+addressLine2
+city
+region
+region2
+postalCode
+country	NA
+returnreason

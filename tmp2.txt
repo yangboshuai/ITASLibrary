@@ -1,0 +1,22 @@
+address
+attendanceTel
+creatTime
+description
+email	ret@qq.com
+fax
+hidActionName	insert
+insideTel
+officeNo	321
+organizationLevel
+organizationName	ret
+organizationStatus	0
+otherName
+outsideTel
+parentId	00000000-0000-0000-0000-000000000000
+post
+serialIndex
+sysGuid
+sysId
+sysRecycle	0
+treeNodeExt
+treeNodePath
